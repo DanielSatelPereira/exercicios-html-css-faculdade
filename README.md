@@ -21,7 +21,7 @@ Cada pasta representa uma fase das aulas ou um conjunto de exercícios práticos
 Além dos exercícios pequenos, desenvolvi alguns projetos mais completos durante as aulas, que estão organizados em repositórios próprios:
 
 - [Site Vitrine - HTML e CSS Puro](https://github.com/DanielSatelPereira/site-vitrine-html-css)
-- [Projeto AlfaPlus](https://github.com/DanielSatelPereira/projeto-alfaplus-html-css)
+- [Projeto AlfaPlus](https://github.com/DanielSatelPereira/alfaplus-1balfa24)
 - [Página Responsiva Final - 1B24](https://github.com/DanielSatelPereira/pagina-responsiva-1b24)
 
 ---
